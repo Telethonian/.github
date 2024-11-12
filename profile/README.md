@@ -114,7 +114,7 @@ Collect user data, analyze messages, and create reports.
 We encourage contributions to make this project better. Here's how you can contribute:
 
 1. Add a New Script/Plugin
-If you have a useful script, feel free to submit it! Just fork this repository, add your script, and open a pull request.
+If you have a useful script, feel free to submit it! Just fork [this repository](https://github.com/Telethonian/Telethonian), add your script, and open a pull request.
 
 
 2. Improve Existing Scripts
@@ -124,25 +124,38 @@ Improving functionality, fixing bugs, or adding new features is always appreciat
 3. Submit Issues
 If you face any issues with the current scripts, create a new issue in the relevant repository, and we will work together to fix it.
 
+If you're interested in adding a new repository, such as a group management bot or any other project that follows Telegram and Telethon's rules, you're welcome to contribute! We encourage all developers to share their scripts and plugins.
 
+### 📬 Contact Me
 
+- **Telegram:** [@ankit_chaubey](https://t.me/ankit_chaubey)  
+- **Bot:** [@ChaubeyBot](https://t.me/ChaubeyBot)  
+- **Email:** [Telethonians@gmail.com](mailto:Telethonians@gmail.com)
+
+Feel free to reach out if you have any questions, suggestions, or contributions!
 
 ---
 
 ## 📁 Repository Structure
 
 We follow a simple structure to ensure ease of use:
-
+```
 ├── src/
-│   ├── main.py            # Main script file
-│   ├── config.py          # Optional config file
-│   └── utils/             # Helper functions
-├── README.md              # This file with setup instructions
-└── LICENSE                # Licensing information
+│   ├── main.py            
+script file
+│   ├── config.py          # Optional
+config file
+│   └── utils/             # Helper
+functions
+├── README.md              # This file
+with setup instructions
+└── LICENSE                # Licensing
+information
+```
 
 ---
 
-🧑‍💻 Technologies Used
+## 🧑‍💻 Technologies Used
 
 Telethon – Asynchronous Python 3 library for Telegram API.
 
@@ -152,11 +165,9 @@ Asyncio – For asynchronous operations in Telethon.
 
 GitHub Actions – For Continuous Integration and deployment.
 
-
-
 ---
 
-💡 Telethonian Features
+## 💡 Telethonian Features
 
 Automated Moderation
 Scripts to handle common group moderation tasks, like banning spammers and clearing inactive members.
@@ -171,7 +182,7 @@ Set up monitoring features to track your bot’s performance, such as uptime, ac
 
 ---
 
-🛠️ Example of a Simple Script
+## 🛠️ Example of a Simple Script
 
 Here's an example of how easy it is to use Telethonian's scripts:
 
@@ -193,18 +204,16 @@ client.loop.run_until_complete(send_message())
 
 ---
 
-🔄 License
+## 🔄 License
 
 Telethonian is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ---
 
-🏆 Credits
-
 ## 🏆 Credits
 
-Initially created by [Ankit Chaubey](https://github.com/ankit-chaubey), **Telethonian** is a project that aims to simplify Telegram bot development. While this project began with my efforts, it will grow with the help and contributions of the community. In the future, we expect Telethonian to expand with more features, scripts, and improvements, making it an even more powerful tool for all developers.
+> Created by [Ankit Chaubey](https://github.com/ankit-chaubey), **Telethonian** is a project that aims to simplify Telegram bot development. While this project began with my efforts, it will grow with the help and contributions of the community. In the future, we expect Telethonian to expand with more features, scripts, and improvements, making it an even more powerful tool for all developers.
 
 Feel free to contribute, share your ideas, and help this project grow!
 ---
