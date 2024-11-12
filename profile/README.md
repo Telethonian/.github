@@ -213,7 +213,7 @@ Telethonian is licensed under the MIT License. See the LICENSE file for more det
 
 ## 🏆 Credits
 
-> Created by [Ankit Chaubey](https://github.com/ankit-chaubey), **Telethonian** is a project that aims to simplify Telegram bot development. While this project began with my efforts, it will grow with the help and contributions of the community. In the future, we expect Telethonian to expand with more features, scripts, and improvements, making it an even more powerful tool for all developers.
+Created by [Ankit Chaubey](https://github.com/ankit-chaubey), **Telethonian** is a project that aims to simplify Telegram bot development. While this project began with my efforts, it will grow with the help and contributions of the community. In the future, we expect Telethonian to expand with more features, scripts, and improvements, making it an even more powerful tool for all developers.
 
 Feel free to contribute, share your ideas, and help this project grow!
 ---
